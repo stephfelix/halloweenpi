@@ -16,5 +16,10 @@ module.exports = {
         './assets/glados-laugh.mp3',
         './assets/glados-come-over-here.mp3',
         './assets/dalek-exterminate.mp3'
-	]
+	],
+
+    images: [
+        './images/Yoda_SWSB.png',
+        './images/donald_trump_official_portrait.jpg'
+    ]
 };
